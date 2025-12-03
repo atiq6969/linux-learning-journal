@@ -22,4 +22,4 @@
 - Learning path: [Linux Journey](https://linuxjourney.com/)
 - Book: "The Linux Command Line" by William Shotts
 - i want know about the linux and other OS
-- 
+ 
